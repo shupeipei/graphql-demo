@@ -31,6 +31,7 @@
     "lodash.keys": "^4.0.5",
     "lodash.values": "^4.1.0",
     "mysql": "^2.10.2",
+    "nodemailer": "^2.4.1",
     "pretty-error": "^2.0.0",
     "sequelize": "^3.19.3",
     "superagent": "^1.8.0-beta.2"
